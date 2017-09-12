@@ -1,3 +1,9 @@
+## HUTZBOTZ:EEEEEE
+this is code for the hutzbots and it is forked so we can pull updates whenever we want. This is essentially a totally customized repo for our team code :D Below is the original readme for convenience:
+
+--------------------
+
+
 ## Welcome!
 This GitHub repository contains the source code that is used to build an Android app to control a *FIRST* Tech Challenge competition robot.  To use this SDK, download/clone the entire project to your local computer.
 
